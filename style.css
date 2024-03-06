@@ -1,0 +1,24 @@
+.mainContainer{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    align-items: center;
+}
+
+p{
+    text-align: center;
+}
